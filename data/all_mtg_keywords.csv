@@ -1,0 +1,47 @@
+Keyword,Description
+Deathtouch,Any amount of damage dealt by a creature with deathtouch is enough to kill a creature it damages.
+Defender,A creature with defender can't attack.
+Double Strike,A creature with double strike deals both first-strike and regular combat damage.
+Enchant,Enchant identifies what an Aura spell can target and what an Aura permanent can enchant.
+First Strike,A creature with first strike deals combat damage before creatures without first strike.
+Flash,A player can play a card with flash any time they have priority.
+Flying,A creature with flying can't be blocked by creatures without flying or reach.
+Haste,Creatures with haste can attack and tap as soon as they come under a player's control.
+Hexproof,A permanent or player with hexproof can't be the target of spells or abilities an opponent controls.
+Indestructible,A permanent with indestructible can't be destroyed.
+Lifelink,Damage dealt by a source with lifelink causes that source's controller to gain that much life.
+Menace,A creature with menace can't be blocked by only one creature.
+Prowess,"Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn."
+Reach,Creatures with reach can block creatures with flying.
+Trample,A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.
+Vigilance,A creature with vigilance doesn't tap to attack.
+Afflict,"Whenever this creature becomes blocked, defending player loses life."
+Aftermath,Cast this spell only from your graveyard. Then exile it.
+Amplify,"As this creature enters the battlefield, put more counters on it for each card that shares a type with it."
+Annihilator,"Whenever this creature attacks, defending player sacrifices permanents."
+Ascend,"If you control ten or more permanents, you get the city's blessing."
+Assist,Another player can pay up to any amount of the mana cost.
+Aura Swap,Exchange this Aura with an Aura card in your hand.
+Awaken,"If you cast this card for its awaken cost, also put counters on a land you control and it becomes a creature."
+Banding,"Any creatures with banding, and up to one without, can attack in a band."
+Battle Cry,"Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn."
+Bestow,"You may cast this card for its bestow cost. If you do, it becomes an Aura and gains enchant creature."
+Bloodthirst,"If an opponent was dealt damage this turn, this creature enters the battlefield with counters on it."
+Boast,Activate this ability only if this creature attacked this turn and only once each turn.
+Bushido,"Whenever this creature blocks or becomes blocked, it gets +X/+X until end of turn."
+Buyback,"You may pay an additional cost as you cast this spell. If you do, put it into your hand as it resolves."
+Cascade,"When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less."
+Champion,"When this enters the battlefield, sacrifice it unless you exile another related card."
+Changeling,This card is every creature type.
+Cipher,"After you cast this spell, you may exile it encoded on a creature you control."
+Convoke,Your creatures can help cast this spell. Each creature you tap while casting this spell pays for mana.
+Crew,Tap any number of creatures you control with total power N or more: This vehicle becomes an artifact creature until end of turn.
+Cumulative Upkeep,"At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it."
+Transmute,"Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery."
+Tribute,"As this creature enters the battlefield, an opponent of your choice may place N +1/+1 counters on it."
+Undying,"When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it."
+Unearth,Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield.
+Vanishing,"This creature enters the battlefield with N time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it."
+Vehicles,"Vehicles are artifacts that can become creatures. To do so, you tap any number of creatures you control with total power N or more."
+Wither,This deals damage to creatures in the form of -1/-1 counters.
+Wizardcycling,"Discard this card: Search your library for a Wizard card, reveal it, put it into your hand, then shuffle your library."
